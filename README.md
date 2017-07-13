@@ -9,23 +9,21 @@ If you're looking for the full version of Semantic including all components and 
 #### Usage Example
 ```
 <head>
-<link rel="stylesheet" href="map/dropdown/dropdown.css">
-<script src="resources/jquery-3.1.1.min.js"></script>
-<script src="dropdown.js"></script>
+	<link rel="stylesheet" href="map/dropdown/dropdown.min.css">
+	<script src="resources/jquery-3.1.1.min.js"></script>
+	<script src="dropdown.min.js"></script>
 </head>
 
 <body>
-<select name="selection[]" multiple="" class="ui dropdown">
-	 <option value="option1">option1</option>
-	 <option value="option2">option2</option>
-	 <option value="option3">option3</option>
-</select>
+	<select name="selection[]" multiple="" class="ui dropdown">
+		 <option value="option1">option1</option>
+		 <option value="option2">option2</option>
+		 <option value="option3">option3</option>
+	</select>
 
-<script>
-$('.dropdown').dropdown({
-			         forceSelection:false
-			}); 
-</script>
+	<script>
+		$('.dropdown').dropdown(); 
+	</script>
 </body>
 
 ```
