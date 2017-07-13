@@ -29,7 +29,7 @@ If you're looking for the full version of Semantic including all components and 
 ```
 
 
-## More Examples and Usage
+#### More Examples and Usage
 
 For more example and usage please visit [UI Docs](https://semantic-ui.com/modules/dropdown.html)
 
