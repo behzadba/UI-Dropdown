@@ -1,6 +1,6 @@
 # Semantic Dropdown
 
-This is a minimized version of Semantic dropdown with optimum size, you can see samples here: https://semantic-ui.com/modules/dropdown.html
+This is a minimized version of Semantic 'dropdown' only with optimum size, you can see samples here: https://semantic-ui.com/modules/dropdown.html
 
 
 If you're looking for the full version of Semantic including all components and build tools [check out the main project repository](https://github.com/Semantic-Org/Semantic-UI/tree/1.0)
