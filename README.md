@@ -7,7 +7,7 @@ This is a minimized version of Semantic 'dropdown' only with optimum size, you c
 #### Usage Example
 ```
 <head>
-	<link rel="stylesheet" href="map/dropdown/dropdown.min.css">
+	<link rel="stylesheet" href="dropdown.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
 	<script src="dropdown.min.js"></script>
 </head>
