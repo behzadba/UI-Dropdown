@@ -8,7 +8,7 @@ This is a minimized version of Semantic 'dropdown' only with optimum size, you c
 ```
 <head>
 	<link rel="stylesheet" href="map/dropdown/dropdown.min.css">
-	<script src="resources/jquery-3.1.1.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
 	<script src="dropdown.min.js"></script>
 </head>
 
@@ -30,7 +30,9 @@ This is a minimized version of Semantic 'dropdown' only with optimum size, you c
 #### More Examples and Usage
 
 
-For more example and usage please visit [UI Docs](https://semantic-ui.com/modules/dropdown.html). If you're looking for the full version of Semantic including all components and build tools [check out the main project repository](https://github.com/Semantic-Org/Semantic-UI/tree/1.0)
+For more example and usage please visit [UI Docs](https://semantic-ui.com/modules/dropdown.html). 
+
+If you're looking for the full version of Semantic including all components and build tools [check out the main project repository](https://github.com/Semantic-Org/Semantic-UI/tree/1.0)
 
 
 
