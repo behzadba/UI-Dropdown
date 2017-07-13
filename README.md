@@ -1,4 +1,4 @@
-# Semantic Dropdown
+# Semantic Dropdown Minimized
 
 This is a minimized version of Semantic 'dropdown' only with optimum size, you can see samples here: https://semantic-ui.com/modules/dropdown.html
 
